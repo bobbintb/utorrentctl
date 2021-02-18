@@ -1,0 +1,9 @@
+*.mkv
+*.png
+*.exe
+*.log
+*.txt
+*.html
+**/venv
+**/__pycache__
+**/.idea
